@@ -29,7 +29,6 @@ export const auth = betterAuth({
         type: [Role.STUDENT, Role.CREATOR, Role.ADMIN],
         required: true,
         defaultValue: [Role.STUDENT],
-        role: Role,
       },
     },
   },

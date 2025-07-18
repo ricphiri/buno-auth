@@ -1,6 +1,5 @@
-> [The Road to Next - Master Full-Stack Web Development with Next.js 15 and React 19](https://catal.ink/nextjs-course)
 
-# example-app
+# example for bun-hono-better-auth
 
 This application uses a client - server architecture.
 

@@ -42,9 +42,9 @@ GOOGLE_CLIENT_SECRET=
 DATABASE_URL=
 ```
 
-3. Run `bun run dev` to start the development server.
+3. Run `bun dev` to start the development server.
 
 ### Run the client
 
 1. Navigate to the client directory and run `bun install` to install the dependencies.
-2. Run `bun run dev` to start the development server.
+2. Run `bun dev` to start the development server.
